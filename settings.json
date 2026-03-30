@@ -8,7 +8,7 @@
   "server": {
     "ip": "azna.aternos.me:12931",
     "port": 12931,
-    "version": "",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
